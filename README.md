@@ -10,10 +10,10 @@ This repository contains beginner-friendly documentation on two popular Python v
 - `README.md`: You're reading it!
 <br>
 ## 📌 Topics Covered
-- Library overviews
-- Graph types with code and images
-- Feature comparisons
-- Best use cases
+<br>- Library overviews
+<br>- Graph types with code and images
+<br>- Feature comparisons
+<br>- Best use cases
 <br>
 ## ✨ Author
-Spoorthy — CSE + Data Science student. This is my Level 1 contribution for my internship! 💼
+<br>Spoorthy — CSE + Data Science student. This is my Level 1 contribution for my internship! 💼
