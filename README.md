@@ -6,7 +6,7 @@ This is repository contains all the projects i did during my Shadowfox internshi
 This repository contains beginner-friendly documentation on two popular Python visualization libraries: **Matplotlib** and **Plotly**.
 <br>
 ## 📁 Folder Structure
-- `Beginner_Guide.pdf`: Complete documentation in PDF format along with code snippets and images.
+- `Matplotlib and Plotly.pdf`: Complete documentation in PDF format along with code snippets and images.
 - `README.md`: You're reading it!
 <br>
 ## 📌 Topics Covered
