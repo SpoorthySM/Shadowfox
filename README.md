@@ -8,8 +8,8 @@
 <br>├── Beginner_Guide.pdf       
 <br>├── Delhi_AQI_Analysis/     
 <br>├── AQI_dashboard 
-  <br>├── Code
-  <br>├── Video
+     ├── Code
+     ├── Video
 <br>├── Data           
 <br>├──Visuals/ Images of graphs               
 <br>├── README.md 
