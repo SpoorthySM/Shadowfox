@@ -7,9 +7,7 @@
 <br>## 📁 Folder Structure
 <br>├── Beginner_Guide.pdf       
 <br>├── Delhi_AQI_Analysis/     
-<br>├── AQI_dashboard 
-     ├── Code
-     ├── Video
+<br>├── AQI_dashboard/ Code / Video
 <br>├── Data           
 <br>├──Visuals/ Images of graphs               
 <br>├── README.md 
